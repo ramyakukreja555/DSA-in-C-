@@ -9,6 +9,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 - Hashing
 - Sorting
 - Arrays
+- Stacks
+- Queues
 
 ## Goal
 - Complete Striver's A2Z DSA Sheet
