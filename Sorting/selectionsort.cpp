@@ -1,4 +1,6 @@
 // Takes minimum at the front
+// select minimum and swap
+// TC is nearly O(n^2) which is best,average and worst case complexity
 #include <iostream>
 using namespace std;
 void selection_sort(int arr[], int n)
