@@ -14,7 +14,7 @@ int main(){
     st.push(arr[n-1]);
     for(int i=n-2;i>=0;i--){
         // pop all the elements smaller than arr[i]
-        while(st.size()>0 &&st.top()<=arr[i]){
+        while(st.size()>0 && st.top()<=arr[i]){
             st.pop();
         }
         // mark the answer in next greater element array
