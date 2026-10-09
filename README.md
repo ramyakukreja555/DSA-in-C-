@@ -13,6 +13,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 - Queues
 - Strings
 - Linked Lists
+- Trees
 
 ## Goal
 - Complete Striver's A2Z DSA Sheet
