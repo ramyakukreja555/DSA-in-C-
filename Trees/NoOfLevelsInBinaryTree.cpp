@@ -31,8 +31,4 @@ int main(){
     c->right=g;
     levels(a);
     return 0;
-
-
-
-
 }
